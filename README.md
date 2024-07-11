@@ -1,8 +1,8 @@
 # Movies-Recommendation-System-
-Aim
+Aim :
 The goal of this project is to create an efficient movie suggestion system that helps cater to the specific needs of the users.
 
-Files Included
+Files Included:
 create.sql: This contains CREATE queries for creating tables
 load.sql: This contains INSERT queries for loading the data onto the created tables
 readme.txt: This provides an overview of the project
